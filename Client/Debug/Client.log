@@ -1,0 +1,6 @@
+﻿  Client.cpp
+C:\Users\Антон\Desktop\Антон\Курсач\Client\Client\Client.cpp(426,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Антон\Desktop\Антон\Курсач\Client\Client\Client.cpp(549,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Антон\Desktop\Антон\Курсач\Client\Client\Client.cpp(1109,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Антон\Desktop\Антон\Курсач\Client\Client\Client.cpp(447,11): warning C4101: 'amount_list': unreferenced local variable
+  Client.vcxproj -> C:\Users\Антон\Desktop\Антон\Курсач\Client\Debug\Client.exe
